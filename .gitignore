@@ -225,3 +225,4 @@ dataset/
 *.csv
 
 .venv-1
+artifacts
